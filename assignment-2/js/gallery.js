@@ -1,5 +1,10 @@
 // js for assignment 2
 
+// <!-- Akshit 200520836 -->
+// <!-- Saksham 200520311 -->
+
+
+
 // creating variables
 var largeImageDisplay = document.querySelector('.bigImg');
 var smallImageDisplay = document.querySelector('.smallImg');
